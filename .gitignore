@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WebApi/Tools.Logger/bin
+/WebApi/Tools.Logger/obj
+/WebApi/WebApi/obj
+/WebApi/WebApi/WebApi.csproj.user
+/WebApi/.vs/WebApi/v16
+/WebApi/packages
+/WebApi/WebApi/bin
+/WebApi/.vs/WebApi/config
