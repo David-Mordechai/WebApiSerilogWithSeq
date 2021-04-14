@@ -1,3 +1,3 @@
 # WebApiSerilogWithSeq
 
-Dotnet framework web api project with serilog + Seq logger
+Dotnet framework 4.7.2 web api project with serilog + Seq logger
