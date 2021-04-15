@@ -16,7 +16,7 @@ namespace WebApi
                 routeTemplate: "",
                 defaults: null,
                 constraints: null,
-                handler: new RedirectHandler((message => message.RequestUri.ToString()), "swagger"));
+                handler: new RedirectHandler(message => message.RequestUri.ToString(), "swagger"));
 
             routes.MapRoute(
                 name: "Default",
